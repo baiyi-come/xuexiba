@@ -1,0 +1,9 @@
+com\tzf\servicebase\config\WebAuthConfig.class
+com\tzf\servicebase\config\SwaggerConfig.class
+com\tzf\servicebase\exceptionHandler\GlobalCommonExceptionHandler.class
+com\tzf\servicebase\exceptionHandler\FileTypeHandler.class
+com\tzf\servicebase\config\MyMetaObjectHandler.class
+com\tzf\servicebase\config\DisableAuth.class
+com\tzf\servicebase\config\AuthInterceptor.class
+com\tzf\servicebase\exceptionHandler\FileIsNullHandler.class
+com\tzf\servicebase\exceptionHandler\GlobalExceptionHandler.class

@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "short.message",
+      "type": "com.tzf.sms.entity.Sms",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    }
+  ],
+  "properties": [
+    {
+      "name": "short.message.appcode",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    },
+    {
+      "name": "short.message.host",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    },
+    {
+      "name": "short.message.method",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    },
+    {
+      "name": "short.message.path",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    },
+    {
+      "name": "short.message.sms-sign-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    },
+    {
+      "name": "short.message.template-id",
+      "type": "java.lang.String",
+      "sourceType": "com.tzf.sms.entity.Sms"
+    }
+  ],
+  "hints": []
+}
